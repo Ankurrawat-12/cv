@@ -48,6 +48,9 @@ p {
 .pro {
   text-decoration: underline;
 }
+.pro:hover{
+  color: #17D8C5;
+}
 
 .intro {
   margin: auto;
