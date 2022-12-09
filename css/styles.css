@@ -89,7 +89,8 @@ p {
 
 .profile_pic {
   height: 15%;
-  width: 25%
+  width: 25%;
+  border-radius: 100%;
 }
 
 .programing_img {
